@@ -2,7 +2,7 @@ let user = {
   id: 1,
   username: "testuser",
   links: [
-    { id: 1, title: "تحميل المجلة PDF", url: "mag.pdf", icon: "fa-solid fa-window-restore" }
+    { id: 1, title: "تحميل المجلة PDF", url: "https://drive.google.com/file/d/1OqnJrh9k75OmVrTlscfFQJ-J9B5tE_Na/view?usp=drive_link", icon: "fa-solid fa-window-restore" }
   ]
 };
 
